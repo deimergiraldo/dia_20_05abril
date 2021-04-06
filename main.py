@@ -49,7 +49,7 @@ for i in range(2,5):
   columna[f'F{i}']=suma
 
 
-horas.save('Suma de horas')
+horas.save('Suma_horas.xlsx')
 
 
 
